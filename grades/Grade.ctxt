@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Grade
+comment1.params=grade
+comment1.target=Grade(double)
+comment2.params=
+comment2.target=char\ getLetter()
+comment3.params=g
+comment3.target=void\ setGrade(double)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

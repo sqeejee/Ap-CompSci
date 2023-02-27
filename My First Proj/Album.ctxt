@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Album
+comment1.params=name\ rating
+comment1.target=Album(java.lang.String,\ double)
+comment2.params=pitchForkScore2
+comment2.target=void\ pitchforkScore(double)
+comment2.text=\n\ Pitchfork\ is\ a\ music\ review\ website,\ this\ is\ where\ the\ user\ will\ enter\ their\ favorite\ album's\ score\ and\ have\ their\ dreams\ crushed.\n
+comment3.params=rating
+comment3.target=void\ setRating(double)
+comment4.params=pitchForkScore
+comment4.target=void\ setPitchForkScore(double)
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment6.params=
+comment6.target=double\ getRating()
+comment7.params=
+comment7.target=double\ getPitchForkScore()
+comment8.params=
+comment8.target=java.lang.String\ getName()
+numComments=9

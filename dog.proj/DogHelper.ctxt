@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DogHelper
+comment1.params=dogID
+comment1.target=char\ computeDogIDCheck(int)
+comment2.params=dogTag
+comment2.target=boolean\ checkDogTag(java.lang.String)
+numComments=3

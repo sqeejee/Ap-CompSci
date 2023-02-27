@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=zombie
+comment0.text=\n\ Write\ a\ description\ of\ class\ zombie\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=speed2\ name2\ attack2\ health2\ dead2\ weaponName2
+comment1.target=boolean\ Zombie(double,\ java.lang.String,\ int,\ int,\ boolean,\ java.lang.String)
+comment2.params=newWeaponName
+comment2.target=void\ equipWeapon(java.lang.String)
+numComments=3

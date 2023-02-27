@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Computer
+comment1.params=
+comment1.target=java.lang.String\ choice()
+comment2.params=result
+comment2.target=java.lang.String\ toString(java.lang.String)
+comment3.params=choice
+comment3.target=void\ setChoice(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getChoice()
+numComments=5

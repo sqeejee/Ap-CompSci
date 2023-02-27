@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GameManager
+comment1.params=p\ c
+comment1.target=GameManager(Player,\ Computer)
+comment2.params=name\ choice
+comment2.target=void\ setPlayerInformation(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=boolean\ didPlayerWin()
+numComments=4
